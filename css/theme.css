@@ -315,7 +315,7 @@ b, strong {
 
 .timeline-wrapper {
   position: relative;
-  padding: 22px 0;
+  padding: 10px 0;
 }
 .timeline-wrapper:last-child:before {
   height: 0;

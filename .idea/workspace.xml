@@ -19,8 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="Fix favicons">
+    <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="Save changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/mmac-project.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/project-image01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/project-image02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/project-image03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/project-image04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/project-image05.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +51,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/favicon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +73,8 @@
       <updated>1597047481776</updated>
       <workItem from="1597047484057" duration="9452000" />
       <workItem from="1597061288016" duration="1211000" />
-      <workItem from="1597063057512" duration="4605000" />
+      <workItem from="1597063057512" duration="4664000" />
+      <workItem from="1597072516685" duration="4126000" />
     </task>
     <task id="LOCAL-00001" summary="Add project files">
       <created>1597049950898</created>
@@ -89,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597067970930</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Save changes">
+      <created>1597072346172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597072346172</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,13 +128,19 @@
     <MESSAGE value="Add project files" />
     <MESSAGE value="Improve banner" />
     <MESSAGE value="Fix favicons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix favicons" />
+    <MESSAGE value="Save changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Save changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="352" y="105" key="Vcs.Push.Dialog.v2" timestamp="1597056964696">
+    <state x="634" y="155" key="FileChooserDialogImpl" timestamp="1597072380531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597072380531" />
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2" timestamp="1597072347800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597056964696" />
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597072347800" />
     <state x="448" y="232" key="run.anything.popup" timestamp="1597055573752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
