@@ -19,8 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="Add project files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/undraw/undraw_software_engineer_lvl5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +42,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/favicon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images" />
       <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images\favicon" />
     </key>
   </component>
@@ -58,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597047481776</updated>
-      <workItem from="1597047484057" duration="2419000" />
+      <workItem from="1597047484057" duration="9301000" />
     </task>
+    <task id="LOCAL-00001" summary="Add project files">
+      <created>1597049950898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597049950898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +91,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="232" key="run.anything.popup" timestamp="1597055573752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="448" y="232" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597055573752" />
   </component>
 </project>
