@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="Improve edition" />
+    <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="Improve edition">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../etp-web-react-js" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -64,7 +66,8 @@
       <workItem from="1597047484057" duration="9452000" />
       <workItem from="1597061288016" duration="1211000" />
       <workItem from="1597063057512" duration="4664000" />
-      <workItem from="1597072516685" duration="4631000" />
+      <workItem from="1597072516685" duration="5311000" />
+      <workItem from="1597120642384" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="Add project files">
       <created>1597049950898</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597076838138</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Improve edition">
+      <created>1597080342893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597080342893</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,15 +140,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="Improve edition" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="155" key="FileChooserDialogImpl" timestamp="1597072380531">
+    <state x="634" y="155" key="FileChooserDialogImpl" timestamp="1597120744662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597120744662" />
     <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597072380531" />
-    <state x="352" y="105" key="Vcs.Push.Dialog.v2" timestamp="1597076839868">
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2" timestamp="1597080344414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597056964696" />
-    <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597076839868" />
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597080344414" />
     <state x="448" y="232" key="run.anything.popup" timestamp="1597055573752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
