@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="Improve edition">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +45,16 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../etp-web-react-js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images\favicon" />
-      <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images" />
+      <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images\favicon" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,6 +70,7 @@
       <workItem from="1597063057512" duration="4664000" />
       <workItem from="1597072516685" duration="5311000" />
       <workItem from="1597120642384" duration="103000" />
+      <workItem from="1597316100480" duration="6984000" />
     </task>
     <task id="LOCAL-00001" summary="Add project files">
       <created>1597049950898</created>
@@ -140,9 +143,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Improve edition" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="155" key="FileChooserDialogImpl" timestamp="1597120744662">
+    <state x="634" y="155" key="FileChooserDialogImpl" timestamp="1597316599829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597316599829" />
     <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597120744662" />
     <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597072380531" />
     <state x="352" y="105" key="Vcs.Push.Dialog.v2" timestamp="1597080344414">
