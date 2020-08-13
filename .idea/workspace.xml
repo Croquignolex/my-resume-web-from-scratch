@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="Sav changes for email send" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ftpwKZGaWZPWfvYGTjTqZ5zOG9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images" />
+      <recent name="C:\src\repositories\tikiton-online-resume-web-scratch\images\favicon" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="" />
+      <created>1597047481776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597047481776</updated>
+      <workItem from="1597047484057" duration="9452000" />
+      <workItem from="1597061288016" duration="1211000" />
+      <workItem from="1597063057512" duration="4664000" />
+      <workItem from="1597072516685" duration="5311000" />
+      <workItem from="1597120642384" duration="103000" />
+      <workItem from="1597316100480" duration="7509000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add project files">
+      <created>1597049950898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597049950898</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Improve banner">
+      <created>1597056963119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597056963119</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix favicons">
+      <created>1597067970930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597067970930</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Save changes">
+      <created>1597072346172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597072346172</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Improve edition">
+      <created>1597076838138</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597076838138</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Improve edition">
+      <created>1597080342893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597080342893</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Sav changes for email send">
+      <created>1597324924226</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597324924226</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Add project files" />
+    <MESSAGE value="Improve banner" />
+    <MESSAGE value="Fix favicons" />
+    <MESSAGE value="Save changes" />
+    <MESSAGE value="Improve edition" />
+    <MESSAGE value="Sav changes for email send" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sav changes for email send" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="155" key="FileChooserDialogImpl" timestamp="1597316599829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597316599829" />
+    <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597120744662" />
+    <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597072380531" />
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2" timestamp="1597324925819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597324925819" />
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597056964696" />
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597080344414" />
+    <state x="448" y="232" key="run.anything.popup" timestamp="1597055573752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="448" y="232" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597055573752" />
+  </component>
+</project>
