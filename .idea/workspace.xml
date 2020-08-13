@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="Improve edition">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8249262f-0a89-42b4-8a51-841d3276031d" name="Default Changelist" comment="Sav changes for email send" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,7 @@
       <workItem from="1597063057512" duration="4664000" />
       <workItem from="1597072516685" duration="5311000" />
       <workItem from="1597120642384" duration="103000" />
-      <workItem from="1597316100480" duration="6984000" />
+      <workItem from="1597316100480" duration="7509000" />
     </task>
     <task id="LOCAL-00001" summary="Add project files">
       <created>1597049950898</created>
@@ -114,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597080342893</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Sav changes for email send">
+      <created>1597324924226</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597324924226</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +143,8 @@
     <MESSAGE value="Fix favicons" />
     <MESSAGE value="Save changes" />
     <MESSAGE value="Improve edition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve edition" />
+    <MESSAGE value="Sav changes for email send" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sav changes for email send" />
   </component>
   <component name="WindowStateProjectService">
     <state x="634" y="155" key="FileChooserDialogImpl" timestamp="1597316599829">
@@ -149,9 +153,10 @@
     <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597316599829" />
     <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597120744662" />
     <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597072380531" />
-    <state x="352" y="105" key="Vcs.Push.Dialog.v2" timestamp="1597080344414">
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2" timestamp="1597324925819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597324925819" />
     <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597056964696" />
     <state x="352" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597080344414" />
     <state x="448" y="232" key="run.anything.popup" timestamp="1597055573752">
