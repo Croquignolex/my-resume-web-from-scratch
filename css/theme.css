@@ -32,7 +32,7 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #dd4b39 !important;
+  color: #1d63ed !important;
 }
 
 .navbar-brand .uil {
@@ -84,14 +84,14 @@ b, strong {
   transition: all 0.4s ease;
 }
 .custom-btn:hover {
-  color: #dd4b39;
+  color: #1d63ed;
 }
 .custom-btn.custom-btn-bg {
   background: #474559;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #dd4b39;
+  background: #1d63ed;
   color: #ffffff !important;
 }
 
@@ -108,7 +108,7 @@ b, strong {
 }
 
 .animated-item {
-  color: #dd4b39;
+  color: #1d63ed;
 }
 
 .animated-item {
@@ -209,7 +209,7 @@ b, strong {
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #dd4b39;
+  color: #1d63ed;
   font-weight: bold;
 }
 .navbar-light .navbar-nav .nav-link:focus span,
@@ -294,7 +294,7 @@ b, strong {
   color: rgba(255, 255, 255, 0.8);
 }
 .dark-mode .navbar-light .navbar-nav .nav-link:hover {
-  color: #dd4b39;
+  color: #1d63ed;
 }
 .dark-mode .navbar[class*="headroom--not-top"] {
   background: #0c0c0d;
@@ -352,7 +352,6 @@ b, strong {
 .timeline-info {
   display: inline-block;
   vertical-align: top;
-  max-width: 432px;
   margin-left: 6em;
 }
 .timeline-info small {
@@ -396,7 +395,7 @@ b, strong {
   font-size: inherit;
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
-  color: #dd4b39;
+  color: #1d63ed;
 }
 .owl-theme .owl-dots .owl-dot {
   outline: none;
@@ -428,10 +427,10 @@ b, strong {
   height: 48px;
 }
 .contact-form .form-control:hover, .contact-form .form-control:focus {
-  border-color: #dd4b39;
+  border-color: #1d63ed;
 }
 .contact-form .submit-btn {
-  background: #dd4b39;
+  background: #1d63ed;
   border-radius: 50px;
   color: #ffffff;
   font-weight: bold;
@@ -460,7 +459,7 @@ b, strong {
   margin: 5px 0;
 }
 .social-links .uil:hover {
-  color: #dd4b39;
+  color: #1d63ed;
 }
 
 @media (min-width: 1270px) {
@@ -469,6 +468,11 @@ b, strong {
     bottom: 50px;
   }
 }
+
+.about-image {
+  margin-top: 4em;
+}
+
 @media (max-width: 991px) {
   .full-screen {
     padding: 2rem 0 1rem 0;
@@ -479,7 +483,7 @@ b, strong {
   }
 
   .about-image {
-    margin-top: 4em;
+    margin-top: 2em;
   }
 
   .mobile-mt-2,
@@ -589,5 +593,5 @@ b, strong {
 }
 
 .text-theme {
-  color: #dd4b39;
+  color: #1d63ed;
 }
